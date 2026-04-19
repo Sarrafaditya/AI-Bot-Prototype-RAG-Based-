@@ -8,4 +8,4 @@ python-dotenv==1.0.1
 groq
 sentence-transformers
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.2.0+cpu
+torch==2.5.1+cpu
